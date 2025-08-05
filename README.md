@@ -16,7 +16,7 @@
 - 💬 Ask me about: **MERN stack, clean code, or VS Code extensions**
 - 🤝 Open to: **Collaborating on open source, real-time apps, and SaaS platforms**
 - 🎯 2025 Goals: **Contribute more to open source and master TypeScript**
-- ⚡ Fun Fact: *I once coded 12+ hours straight and absolutely loved it!*
+- ⚡ Fun Fact: **I once coded 12+ hours straight and absolutely loved it!**
 
 ---
 
