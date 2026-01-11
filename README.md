@@ -43,6 +43,7 @@
 
 #### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Nest.js](https://img.shields.io/badge/Nest.js-339933?style=for-the-badge&logo=nest.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
